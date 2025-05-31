@@ -1,90 +1,21 @@
-Creative Commons Legal Code
+MIT License
 
-CC0 1.0 Universal
+Copyright (c) 2025 Andrei Matthew
 
-STATEMENT OF PURPOSE
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive copyright and/or other restricted rights in literary and artistic
-works, and permit the authors thereof to enter into various contractual
-arrangements and statutory licenses, and to enjoy a body of rights and
-remedies that may vary from jurisdiction to jurisdiction.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Apart from the very limited exception of "fair dealing" (or equivalent)
-whereby an otherwise applicable copyright may be overridden or
-superseded, or where the author or copyright owner expressly and
-unambiguously renounces all of his or her rights, it is virtually impossible
-for anyone to freely use, copy, modify, translate, distribute, or otherwise
-make available to the public any copyrightable work without infringing
-any of the exclusive rights conferred by the copyright owner's
-unilateral exercise of such rights ("Unilateral Exercise").
-
-The fact that an author or copyright owner has rights should not be
-taken to indicate that he or she intends to always enforce those rights.
-To the contrary, Creative Commons is of the view that it is important
-for authors and copyright owners to have a mechanism whereby they
-can elect to empower the public at large to freely use, copy, modify,
-translate, distribute, or otherwise make available a copyrightable work
-without infringing any of the exclusive rights conferred by the copyright
-owner's Unilateral Exercise.
-
-The creator of a work who makes the work available under CC0 1.0
-Universal does so to the fullest extent permitted by the applicable law
-of copyright, including without limitation the rights to reproduce, to
-prepare derivative works of, to distribute, to perform, and to publicly
-display the work, and the right to make the work available to the public.
-
-To the extent that any such rights may subsist, the creator of the work
-waives, to the fullest extent permitted by law, all rights in the work,
-including without limitation the right to copy, distribute, display, and
-perform the work, and to make available to the public the work, including
-the right to create derivative works thereof, on terms that prohibit
-imitation, alteration, or adaptation of the work, or the right to
-commercial use.
-
-The creator of the work makes the work available under CC0 1.0 Universal
-on the condition that the work is not misrepresented or used in a way
-that would imply endorsement by the creator.
-
-The creator of the work dedicates the work to the public domain and
-permits the public to use the work freely without restriction or
-limitation.
-
-To the extent that copyright and related rights in a work may subsist,
-the creator of the work, to the fullest extent permitted by law, waives all
-copyright and related rights that the creator may have in the work.
-The creator of the work also waives any rights to use, copy, modify,
-translate, distribute, or otherwise make available the work to the public.
-
-The creator of the work does not intend to create any new rights or
-obligations with respect to the work, other than those provided for by
-applicable law.
-
-NO WARRANTIES
-
-THE WORK IS PROVIDED "AS IS" WITHOUT ANY REPRESENTATION OR WARRANTY
-WHATSOEVER, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION,
-ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE. THE CREATOR OF THE WORK
-MAKES NO REPRESENTATION OR WARRANTY THAT THE WORK IS FREE OF DEFECTS,
-ERRORS, OR VIRUSES, OR THAT THE WORK WILL BE FREE FROM INTERRUPTIONS
-IN OPERATION OR INABILITY TO ACCESS THE WORK.
-
-DISCLAIMER OF LIABILITY
-
-IN NO EVENT SHALL THE CREATOR OF THE WORK BE LIABLE TO YOU OR ANY OTHER
-PARTY FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION, ANY DIRECT, INDIRECT,
-SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES,
-ARISING OUT OF OR IN CONNECTION WITH THE WORK, EVEN IF THE CREATOR OF THE
-WORK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-This Statement of Purpose is for the convenience of the public. It is not
-intended to be a legal agreement or to create any legally binding rights
-or obligations.
-
-Please consult your legal counsel for legal advice regarding this or
-any other legal document.
-
-Creative Commons is a non-profit organization that offers copyright licenses
-and tools. For more information, please visit creativecommons.org.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
